@@ -10,8 +10,14 @@
 </table>
 
 
-<i class="fa fa-chevron-right"></i> <strong>Research Experience</strong>
+<i class="fa fa-chevron-right"></i> <strong>Experience</strong>
 <table class="table table-hover">
+
+<tr>
+  <td class='col-md-3'>August 2020 - Present</td>
+  <td><strong>Workschool</strong>, Software Engineer Intern</td>
+</tr>
+
 <tr>
   <td class='col-md-3'>Jan 2017 - May 2020</td>
   <td><strong>School of Chemical and Biomolecular Engineering, Cornell University</strong>, Research Assistant</td>
