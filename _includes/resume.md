@@ -1,4 +1,5 @@
 <i class="fa fa-chevron-right"></i><strong>Education</strong>
+
 <table class="table table-hover">
   <tr>
     <td class="col-md-3">Aug 2016 - May 2020</td>
@@ -9,13 +10,13 @@
     </td>
 </table>
 
-
 <i class="fa fa-chevron-right"></i> <strong>Experience</strong>
+
 <table class="table table-hover">
 
 <tr>
   <td class='col-md-3'>August 2020 - Present</td>
-  <td><strong>Workschool</strong>, Software Engineer Intern</td>
+  <td><strong>Workschool.co</strong>, Software Engineering Intern</td>
 </tr>
 
 <tr>
@@ -33,6 +34,7 @@
 </table>
 
 <i class="fa fa-chevron-right"></i> <strong>Honors & Awards</strong>
+
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>2019</td>
@@ -51,6 +53,7 @@
 </table>
 
 <i class="fa fa-chevron-right"></i> <strong>Skills</strong>
+
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>Languages</td>
@@ -71,5 +74,3 @@ Windows, OSX
   </td>
 </tr>
 </table>
-
-
